@@ -10,4 +10,4 @@ Projeto desenvolvido junto ao Bootcamp de Desenvolvimento de Games com Javascrip
 - CSS3
 - Javascript
 
-![Jogo da Memória Design](https://github.com/guilherme25alves/dio-jogo-da-velha/blob/master/velha.png?raw=true)
+![Jogo da Memória Design](https://github.com/guilherme25alves/dio-jodo-da-velha/blob/main/velha.png?raw=true)
